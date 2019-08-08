@@ -17,6 +17,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="profile" href="https://gmpg.org/xfn/11" />
 	<?php wp_head(); ?>
+	<link rel="stylesheet" id="wp-block-library-css" href="wp-includes/css/test-file.css" type="text/css" media="all">
 </head>
 
 <body <?php body_class(); ?>>
